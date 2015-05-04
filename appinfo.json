@@ -1,7 +1,7 @@
 {
   "uuid": "e79f4938-ace2-4794-b6c4-b8418dc40de8",
-  "shortName": "test-pebble-sdk-simple-javascript",
-  "longName": "test-pebble-sdk-simple-javascript",
+  "shortName": "test-pebble-simple-javascript",
+  "longName": "test-pebble-simple-javascript",
   "companyName": "MakeAwesomeHappen",
   "versionCode": 1,
   "versionLabel": "1.0",
