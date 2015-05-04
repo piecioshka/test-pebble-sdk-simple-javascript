@@ -4,4 +4,4 @@ Test application building with command: `pebble new-project --simple --javascrip
 
 ## Authors
 
- - [piecioshk](http://twitter.com/piecioshka)
+ - [piecioshka](http://twitter.com/piecioshka)
