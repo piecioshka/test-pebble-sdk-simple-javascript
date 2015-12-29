@@ -1,5 +1,5 @@
 #include <pebble.h>
 
 int main(void) {
-  app_event_loop();
+    app_event_loop();
 }

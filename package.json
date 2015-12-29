@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "devDependencies": {
+    "underscore": "^1.8.3"
+  }
+}
